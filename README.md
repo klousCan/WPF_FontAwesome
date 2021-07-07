@@ -23,7 +23,7 @@
 ------
 
 - 源码下载：
-https://github.com/rongcan/WPF_FontAwesome.git   
+https://github.com/klousCan/WPF_FontAwesome.git   
 记得点赞和推荐，你的赞和推荐就是我最好的动力
 
 ------
